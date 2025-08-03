@@ -7,9 +7,8 @@ This project is built using **HTML** and **CSS** and serves as my digital identi
 
 ---
 
-## 🔗 url
-
-
+## 🔗 url 
+https://dawiti-portfolio.netlify.app/
 ---
 
 ## 📁 Project Structure
